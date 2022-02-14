@@ -29,4 +29,4 @@ truffle-hdwallet-provider: v8.3.1
 ## Deployed Contract addresses - Rinkeby Test Network
 https://rinkeby.etherscan.io/address/0x8275fc5c250b471163ffc7344b0fb61bf51e96f5
 
-![rinkeby contract](rinkeby-contract.png)
+![rinkeby contract](rinkebycontract.png)
