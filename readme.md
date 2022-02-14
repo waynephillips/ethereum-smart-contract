@@ -4,16 +4,16 @@ This repository containts an Ethereum DApp that demonstrates a Supply Chain flow
 ## Project write-up
 
 ### Activity Diagram
-![Activity Diagram](uml/Coffee Supply Chain - Activity Diagram.png)
+![Activity Diagram](uml/ActivityDiagram.png)
 
 ### Sequence Diagram
-![Sequence Diagram](uml/Coffee Supply Chain - Sequence Diagram.png)
+![Sequence Diagram](uml/SequenceDiagram.png)
 
 ### State Diagram
-![State Diagram](uml/Coffee Supply Chain - State Diagram.png)
+![State Diagram](uml/StateDiagram.png)
 
 ### Class - Data Model Diagram
-![Class Diagram](uml/Coffee Supply Chain - UML Class Diagram.png)
+![Class Diagram](uml/UMLClassDiagram.png)
 
 ## Project write-up
 ## Additional Libraries Used
